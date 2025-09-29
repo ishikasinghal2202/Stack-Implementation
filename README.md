@@ -63,7 +63,6 @@ Algorithm (for Array-based Stack):
 Flowchart (Stack Operations):
 ---------------------------------------------------------------
 
-        /*
                  +-------------------+
                  |   START PROGRAM   |
                  +-------------------+
@@ -99,7 +98,7 @@ Flowchart (Stack Operations):
                  +-------------------+
                  |        END        |
                  +-------------------+
-*/
+
 
 ---------------------------------------------------------------
 Table: Stack Operations Example
