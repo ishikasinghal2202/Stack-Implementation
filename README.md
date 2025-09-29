@@ -63,7 +63,7 @@ Algorithm (for Array-based Stack):
 Flowchart (Stack Operations):
 ---------------------------------------------------------------
 
-                /*
+         /*
                  +-------------------+
                  |   START PROGRAM   |
                  +-------------------+
@@ -91,7 +91,10 @@ Flowchart (Stack Operations):
   | Yes: Overflow | | Yes: Underflow| | Yes: Msg      | | Yes: Msg      |
   | No: Insert    | | No: Remove    | | No: Show Top  | | No: Show All  |
   +---------------+ +---------------+ +---------------+ +---------------+
-                          |
+             \             |              |              /
+              \            |              |             /
+               \           |              |            /
+                \          |              |           /
                           v
                  +-------------------+
                  | Continue / Exit ? |
@@ -102,6 +105,7 @@ Flowchart (Stack Operations):
                  |        END        |
                  +-------------------+
 */
+
 
 
 
